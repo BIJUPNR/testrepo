@@ -1,1 +1,2 @@
 Hello this is my testfile for git upload
+Editing the file after cloning 
